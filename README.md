@@ -1,7 +1,5 @@
-# Tauri + React + Typescript
+# Tauri todo
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This repo is just for me to try Rust with Desktop applications.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+I'm learning Rust, so if you know it better than me (which probably is the case), feel free to open an issue to give me some tips or to blame me for my mistakes !
